@@ -21,5 +21,6 @@ ladybug_characters = {
     },
 }
 
+# тут добавь что то
 for character in ladybug_characters:
     print(character)
